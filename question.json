@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript ??",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<scripting>",
+    "choice4": "<js>",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "<script src='xxx.js'>",
+    "choice2": "<script src='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script src='xxx.js'>",
+    "answer": 3
+  }
+]
